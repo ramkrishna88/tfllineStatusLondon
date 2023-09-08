@@ -27,4 +27,8 @@ Step by step explanation of how to get a dev environment running.
 1. Step 1: Example of what to do.
    ```sh
     git clone https://github.com/ramkrishna88/tfllineStatusLondon.git 
+   
+2. Step 2: Example of what to do.
+   ```sh
+    open in android studio and run the project
 
