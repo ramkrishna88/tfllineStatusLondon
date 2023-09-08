@@ -1,4 +1,4 @@
-# tfllineStatusLondon
+# TFL Line Status London
  Implemented the tfllineStatusLondon where we are getting the service and lines https://api.tfl.gov.uk/Line/Mode/Tube/Status this will show the lines and service
  then with this we are getting the lines and service then i am displaying as this 
 # <img width="405" alt="Screenshot 2023-09-08 at 09 14 00" src="https://github.com/ramkrishna88/tfllineStatusLondon/assets/88400309/71457bd6-afcf-4541-a4bb-2a0b6f096437">
